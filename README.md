@@ -1,2 +1,2 @@
-# projaect
+# project
 Blind Sight
